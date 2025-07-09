@@ -6,7 +6,7 @@ function toggleMobileMenu() {
 
 // Typing effect
 const typed = new Typed('#typed-text', {
-    strings: ['Actively Seeking Fulltime Roles','AI Graduate Student', 'Machine Learning', 'Deep Learning','MLOps','Computer Vision'],
+    strings: ['Actively Seeking Fulltime Roles','Computer Science Graduate Student', 'Machine Learning', 'Deep Learning','MLOps','Computer Vision'],
     typeSpeed: 20,
     backSpeed: 0,
     backDelay: 1500,
